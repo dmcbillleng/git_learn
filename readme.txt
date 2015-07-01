@@ -7,3 +7,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Merge branch with 'Fast Forward' disabled.
 A new bug coming & work on current branch not done yet!
+
+A new change to dev branch from Daniel Ke.
